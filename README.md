@@ -20,3 +20,6 @@ This project is a simple Flask-based GPS chatbot application that integrates the
 - **Text Matching**: FuzzyWuzzy for improved destination matching
 - **Frontend**: HTML templates rendered with Flask
 
+## Contributors
+
+- [Rahul G](https://github.com/rahul-lol)  - Frontend Development & UI Design Development
